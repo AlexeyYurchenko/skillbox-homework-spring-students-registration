@@ -1,0 +1,31 @@
+app:
+  inject:
+    enabled: true
+
+
+inject-person-yml:
+  person-yml:
+    -
+      first-name: "Анна"
+      last-name: "Юрченко"
+      age: "36"
+    -
+      first-name: "Евгений"
+      last-name: "Бажин"
+      age: "37"
+    -
+      first-name: "Александр"
+      last-name: "Казаков"
+      age: "60"
+    -
+      first-name: "Иван"
+      last-name: "Новоселов"
+      age: "38"
+    -
+      first-name: "Александр"
+      last-name: "Круткин"
+      age: "36"
+    -
+      first-name: "Сергей"
+      last-name: "Шестаков"
+      age: "37"
