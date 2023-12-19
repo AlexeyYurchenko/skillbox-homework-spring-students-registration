@@ -22,7 +22,6 @@ public class PersonShellCommand {
     @ShellMethod(value = "Information on commands", key = "info")
     public String info() {
         return "Select command: " +
-                "(save) Save contact, " +
                 "(add) Add Student, " +
                 "(list) All List Students, " +
                 "(del) Remove Student by ID, " +
